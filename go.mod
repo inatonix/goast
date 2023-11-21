@@ -3,7 +3,7 @@ module goast
 go 1.20
 
 require (
-	github.com/sashabaranov/go-openai v1.16.0
+	github.com/sashabaranov/go-openai v1.17.5
 	github.com/spf13/cobra v1.8.0
 )
 
